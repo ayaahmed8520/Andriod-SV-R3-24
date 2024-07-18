@@ -1,1 +1,2 @@
 version control course
+this is the second day
